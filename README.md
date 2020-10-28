@@ -11,8 +11,11 @@ Session | Topic | Date | Lab
  Session 7     | Service Management Principles | Lab 7  |
 
 
-Session 1 Reference Links: ![https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/]
-Lab 1 :  ![https://github.com/IBMDevConnect/publiccloudsolutionsworkshop/tree/master/lab1%20-%20cf%20app]
+## Session 1 ## 
+Reference Links: [https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/]
+
+## Lab 1 :## 
+[https://github.com/IBMDevConnect/publiccloudsolutionsworkshop/tree/master/lab1%20-%20cf%20app]
 
 Lab 2 :
 
