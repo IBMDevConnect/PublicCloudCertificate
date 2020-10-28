@@ -10,9 +10,9 @@ Session | Topic | Date | Lab
  Session 6     | Describe DevOps Capabilities | Lab 6  |
  Session 7     | Service Management Principles | Lab 7  |
 
+## Reference Links:
 
-**Session 1** 
-Reference Links: 
+**Session 1**  
 1. https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/
 2. https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+2020T4/course/
 3. https://cloud.ibm.com/docs/vpc?topic=vpc-about-advanced-virtual-servers 
