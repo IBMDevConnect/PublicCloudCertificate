@@ -1,6 +1,6 @@
 # PublicCloudCertificate
 
-Session | Topic | Date | Lab
+Session | Topic | Lab | Date
 --- | --- | --- | ---
  Session 1     | Introduction to IBM Cloud Compute Options| Lab 1  |
  Session 2     | IBM Cloud Container Platforms | Lab 2  |
